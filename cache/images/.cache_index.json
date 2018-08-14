@@ -1,0 +1,101 @@
+{
+    "logo_16x16_contain": {
+        "key": "logo_16x16_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_16x16_contain_5b724627e543a.png",
+        "data": {
+            "width": 16,
+            "height": 16
+        }
+    },
+    "logo_24x24_contain": {
+        "key": "logo_24x24_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_24x24_contain_5b7246283b4fe.png",
+        "data": {
+            "width": 24,
+            "height": 24
+        }
+    },
+    "logo_32x32_contain": {
+        "key": "logo_32x32_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_32x32_contain_5b724628423f3.png",
+        "data": {
+            "width": 32,
+            "height": 32
+        }
+    },
+    "logo_48x48_contain": {
+        "key": "logo_48x48_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_48x48_contain_5b724628470c7.png",
+        "data": {
+            "width": 48,
+            "height": 48
+        }
+    },
+    "logo_64x64_contain": {
+        "key": "logo_64x64_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_64x64_contain_5b7246284af54.png",
+        "data": {
+            "width": 64,
+            "height": 64
+        }
+    },
+    "logo_72x72_contain": {
+        "key": "logo_72x72_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_72x72_contain_5b7246284f4fc.png",
+        "data": {
+            "width": 72,
+            "height": 72
+        }
+    },
+    "logo_152x152_contain": {
+        "key": "logo_152x152_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_152x152_contain_5b72462853e11.png",
+        "data": {
+            "width": 152,
+            "height": 152
+        }
+    },
+    "logo_167x167_contain": {
+        "key": "logo_167x167_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_167x167_contain_5b7246285e762.png",
+        "data": {
+            "width": 167,
+            "height": 167
+        }
+    },
+    "logo_180x180_contain": {
+        "key": "logo_180x180_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_180x180_contain_5b72462868f76.png",
+        "data": {
+            "width": 180,
+            "height": 180
+        }
+    },
+    "logo_119x119_contain": {
+        "key": "logo_119x119_contain",
+        "last_modification_time": 1534209014,
+        "relative_path": "logo_119x119_contain_5b72462872ced.png",
+        "data": {
+            "width": 119,
+            "height": 119
+        }
+    },
+    "back_forest": {
+        "key": "back_forest",
+        "last_modification_time": 1534209014,
+        "relative_path": "back_forest_5b7246287a77c.jpg",
+        "data": {
+            "width": 1200,
+            "height": 803
+        }
+    }
+}
